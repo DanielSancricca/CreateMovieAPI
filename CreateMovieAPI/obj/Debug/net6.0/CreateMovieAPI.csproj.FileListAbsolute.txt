@@ -1,0 +1,7 @@
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit7Labs\CreateMovieAPI\CreateMovieAPI\obj\Debug\net6.0\CreateMovieAPI.csproj.AssemblyReference.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit7Labs\CreateMovieAPI\CreateMovieAPI\obj\Debug\net6.0\CreateMovieAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit7Labs\CreateMovieAPI\CreateMovieAPI\obj\Debug\net6.0\CreateMovieAPI.AssemblyInfoInputs.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit7Labs\CreateMovieAPI\CreateMovieAPI\obj\Debug\net6.0\CreateMovieAPI.AssemblyInfo.cs
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit7Labs\CreateMovieAPI\CreateMovieAPI\obj\Debug\net6.0\CreateMovieAPI.csproj.CoreCompileInputs.cache
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit7Labs\CreateMovieAPI\CreateMovieAPI\obj\Debug\net6.0\CreateMovieAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dansa\Documents\Grand Circus\Labs\Unit7Labs\CreateMovieAPI\CreateMovieAPI\obj\Debug\net6.0\CreateMovieAPI.MvcApplicationPartsAssemblyInfo.cache
