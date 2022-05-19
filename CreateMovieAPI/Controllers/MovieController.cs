@@ -27,7 +27,7 @@ namespace CreateMovieAPI.Controllers
         [HttpGet("SearchByGenre/{genre}")]
         public List<Movie> SearchByGenre(Genre genre)
         {
-            List<Movie> results = Movies.Where(x=>x.Genre == genre).ToList();
+            List<Movie> results = Movies.Where(x => x.Genre == genre).ToList();
             return results;
         }
 
@@ -47,6 +47,22 @@ namespace CreateMovieAPI.Controllers
             int index = random.Next(results.Count);
             return Movies[index];
         }
+
+        [HttpGet("ListOfRandomMoviePicks/{num}")]
+        public List<Movie> GetRandomMovies(int num)
+        {
+            var random = new Random();
+            List<Movie> randomMovies = Movies.OrderBy(x => random.Next(num)).ToList();
+            return randomMovies;
+        }
+
+      
+            
+        
+        
+
+
+
 
     }   
 }
